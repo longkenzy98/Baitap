@@ -12,5 +12,6 @@ Repository  có 2 lo?i :
  + git clone +link
 6: git log( ki?m tra nh?ng l?n thay d?i )
 7:git revert +link6( quay l?i nh?ng l?n thay d?i  )
-8: 
+8: git pull (kéo project t? trên github v?)
+
 
