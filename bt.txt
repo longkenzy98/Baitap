@@ -21,5 +21,5 @@ Repository  có 2 lo?i :
   -- add, commit, push 
   --chuyen ve master 
     ***git merge <tên...>
-10: aaaâ
-
+10: hello 
+ 
