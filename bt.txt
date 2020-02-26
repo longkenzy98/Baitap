@@ -1,0 +1,8 @@
+1: Git là gì ?
+git là kho luu tr? source code
+Luu tr?ng thái c?a file du?i d?ng l?ch s?
+2: Repository là gì ?
+Repository  có 2 lo?i : 
+ * Remote repository : kho luu tr? t? xa trên github có th? chia s? v?i nhi?u ngu?i !
+ *local repository : kho luu tr? trên máy cá nhân
+3 : 
