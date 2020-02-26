@@ -13,5 +13,13 @@ Repository  có 2 lo?i :
 6: git log( ki?m tra nh?ng l?n thay d?i )
 7:git revert +link6( quay l?i nh?ng l?n thay d?i  )
 8: git pull (kéo project t? trên github v?)
-9 : 
+9 : branch and merge
+ + chuyen nhanh master
+ + tao nhanh moi 
+  -- git branch <tên...>
+  -- get checkout <tên...>(vao nhanh moi)
+  -- add, commit, push 
+  --chuyen ve master 
+    ***git merge <tên...>
+10: aaaâ
 
